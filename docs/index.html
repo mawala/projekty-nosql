@@ -8,9 +8,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
-
-
-
 <title>Technologie NoSQL</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -30,8 +27,6 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
    }, 0);
 }
 </script>
-
-
 
 <style type="text/css">
 h1 {
@@ -60,7 +55,6 @@ h6 {
 }
 </style>
 
-
 </head>
 
 <body>
@@ -87,8 +81,6 @@ button.code-folding-btn:focus {
 }
 </style>
 
-
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
@@ -100,18 +92,8 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-
-
-
-
-
 <div class="fluid-row" id="header">
-
-
-
-
 </div>
-
 
 <div id="technologie-nosql" class="section level1">
 <h1>Technologie NoSQL</h1>
@@ -134,14 +116,11 @@ mongoimport --drop -d test -c airports --jsonArray &lt; airportlist.geojson</cod
 <pre class="bash"><code>mongo test command.js &gt; file.json</code></pre>
 <p>oraz przekształcono go w obiekty GeoJSON</p>
 <pre class="bash"><code>type file.json | findstr /v MongoDB | findstr /v mongodb | ^
-C:\progra~1\Jq\jq {type:\&quot;FeatureCollection\&quot;,features:.} &gt; airportclose.geojson</code></pre>
+jq {type:\&quot;FeatureCollection\&quot;,features:.} &gt; airportclose.geojson</code></pre>
 <p>I tak otrzymano plik <em>airportclose.geojson</em>:</p>
 <script src="https://embed.github.com/view/geojson/mawala/projekty-nosql/master/data/airportclose.geojson"></script>
 </div>
 </div>
-
-
-
 
 </div>
 
@@ -154,7 +133,6 @@ function bootstrapStylePandocTables() {
 $(document).ready(function () {
   bootstrapStylePandocTables();
 });
-
 
 </script>
 
