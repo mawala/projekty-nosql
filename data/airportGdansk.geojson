@@ -1,0 +1,2623 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESIB",
+        "NAME": "SATENAS",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.714,
+          58.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGT",
+        "NAME": "TROLLHATTAN VANERSBORG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.345,
+          58.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMV",
+        "NAME": "HAGSHULT",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.137,
+          57.292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMG",
+        "NAME": "FERINGE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.924,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESTL",
+        "NAME": "LJUNGBYHED",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.212,
+          56.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESML",
+        "NAME": "LANDSKRONA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.86,
+          55.944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKCH",
+        "NAME": "KASTRUP",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.656,
+          55.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDXF",
+        "NAME": "FLENSBURG SCHAFERHAUS",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38,
+          54.771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDBH",
+        "NAME": "BARTH",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71,
+          54.338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDXR",
+        "NAME": "RENDSBURG SCHACHTHOLM",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.616,
+          54.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDHL",
+        "NAME": "LUBECK BLANKENSEE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72,
+          53.804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSC",
+        "NAME": "GOLENIOW",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.902,
+          53.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDOV",
+        "NAME": "STENDAL",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.819,
+          52.629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDI",
+        "NAME": "TEMPELHOF",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDVE",
+        "NAME": "BRAUNSCHWEIG",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.555,
+          52.319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAZ",
+        "NAME": "SCHONHAGEN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.158,
+          52.203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDCK",
+        "NAME": "KOTHEN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.961,
+          51.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAQ",
+        "NAME": "HALLE OPPIN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.054,
+          51.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAK",
+        "NAME": "GROSSENHAIN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.554,
+          51.308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAU",
+        "NAME": "RIESA GOHLIS",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          51.294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKVO",
+        "NAME": "VODOCHODY",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.395,
+          50.216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESCN",
+        "NAME": "TULLINGE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.912,
+          59.181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EEPU",
+        "NAME": "PARNU",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.475,
+          58.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSV",
+        "NAME": "VISBY",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.346,
+          57.662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMO",
+        "NAME": "OSKARSHAMN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.498,
+          57.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMA",
+        "NAME": "EMMABODA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.605,
+          56.609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EYKA",
+        "NAME": "KAUNAS",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.084,
+          54.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "BABIE DOLY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.517,
+          54.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPGD",
+        "NAME": "REBIECHOWO",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.466,
+          54.377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "PLOTY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.29,
+          53.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "LEGNICA",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.178,
+          51.182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPKT",
+        "NAME": "PYRZOWICE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.079,
+          50.474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKHK",
+        "NAME": "HRADEC KRALOVE",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.845,
+          50.253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPRZ",
+        "NAME": "JASIONKA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.018,
+          50.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKCV",
+        "NAME": "CASLAV",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.381,
+          49.939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "BIRCZA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.513,
+          49.656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LZZI",
+        "NAME": "ZILINA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.613,
+          49.231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKTB",
+        "NAME": "TURANY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.693,
+          49.151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKKU",
+        "NAME": "KUNOVICE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.439,
+          49.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESIA",
+        "NAME": "KARLSBORG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.507,
+          58.514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMT",
+        "NAME": "HALMSTAD",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82,
+          56.691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKVL",
+        "NAME": "VAERLOSE",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.323,
+          55.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDHK",
+        "NAME": "KIEL HOLTENAU",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.145,
+          54.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETNH",
+        "NAME": "HOHN",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.539,
+          54.311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSD",
+        "NAME": "DABIE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.633,
+          53.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ED",
+        "NAME": "ORANIENBURG",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.215,
+          52.726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ET",
+        "NAME": "FALKENBERG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.216,
+          51.546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAB",
+        "NAME": "BAUTZEN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.519,
+          51.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDC",
+        "NAME": "DRESDEN",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.767,
+          51.132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKPR",
+        "NAME": "RUZYNE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          50.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EYPA",
+        "NAME": "PALANGA INTL",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.094,
+          55.973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSK",
+        "NAME": "REDZIKOWO",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.107,
+          54.478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "KOLOBRZEG",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.686,
+          54.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPKO",
+        "NAME": "ZEGRZE POMORSKIE",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.263,
+          54.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSN",
+        "NAME": "SWIDWIN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.828,
+          53.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSY",
+        "NAME": "SZYMANY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.937,
+          53.481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPTO",
+        "NAME": "TORUN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.545,
+          53.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "BEDNARY",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.218,
+          52.534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPZG",
+        "NAME": "BABIMOST",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.798,
+          52.138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EP",
+        "NAME": "SPALA GLINNIK NOWY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.096,
+          51.583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPWR",
+        "NAME": "STRACHOWICE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.885,
+          51.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPML",
+        "NAME": "MIELEC",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.462,
+          50.322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPKK",
+        "NAME": "BALICE JPS INTL",
+        "USE": 22,
+        "USE_DESC": "Joint Military/Civilian",
+        "ELEVATION": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.784,
+          50.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKMT",
+        "NAME": "MOSNOV",
+        "USE": 22,
+        "USE_DESC": "Joint Military/Civilian",
+        "ELEVATION": 257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.111,
+          49.696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGL",
+        "NAME": "LIDKOPING",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174,
+          58.465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGR",
+        "NAME": "SKOVDE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.972,
+          58.456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGK",
+        "NAME": "FALKOPING",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.587,
+          58.169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGP",
+        "NAME": "SAVE",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87,
+          57.774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGG",
+        "NAME": "LANDVETTER",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.279,
+          57.662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKLS",
+        "NAME": "LAESO",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.001,
+          57.277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMP",
+        "NAME": "ANDERSTORP",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.599,
+          57.264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMX",
+        "NAME": "KRONOBERG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.727,
+          56.929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESFU",
+        "NAME": "URASA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.945,
+          56.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKRN",
+        "NAME": "BORNHOLM RONNE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.759,
+          55.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKSB",
+        "NAME": "SONDERBORG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791,
+          54.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKMB",
+        "NAME": "LOLLAND FALSTER MARIBO",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.441,
+          54.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETNL",
+        "NAME": "LAAGE",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.279,
+          53.918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETNU",
+        "NAME": "NEUBRANDENBURG",
+        "USE": 22,
+        "USE_DESC": "Joint Military/Civilian",
+        "ELEVATION": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.306,
+          53.602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDOP",
+        "NAME": "SCHWERIN PARCHIM",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.783,
+          53.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAV",
+        "NAME": "FINOW",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694,
+          52.826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAY",
+        "NAME": "STRAUSBERG",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.915,
+          52.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDB",
+        "NAME": "SCHONEFELD",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.522,
+          52.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAS",
+        "NAME": "FINSTERWALDE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741,
+          51.607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDP",
+        "NAME": "LEIPZIG HALLE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.236,
+          51.423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDBT",
+        "NAME": "ALLSTEDT",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.445,
+          51.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKKB",
+        "NAME": "KBELY",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.543,
+          50.121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESKN",
+        "NAME": "SKAVSTA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912,
+          58.788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESCF",
+        "NAME": "MALMEN",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.525,
+          58.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EVLA",
+        "NAME": "LIEPAJA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.096,
+          56.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESDF",
+        "NAME": "RONNEBY",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.265,
+          56.266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "UMKK",
+        "NAME": "KHRABROVO",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.592,
+          54.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EYVI",
+        "NAME": "VILNIUS",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.285,
+          54.634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPLB",
+        "NAME": "CEWICE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.765,
+          54.416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPPI",
+        "NAME": "PILA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.712,
+          53.169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPKS",
+        "NAME": "KRZESINY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.968,
+          52.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPWA",
+        "NAME": "OKECIE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "UMBB",
+        "NAME": "BREST",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.898,
+          52.108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPLU",
+        "NAME": "LUBIN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.196,
+          51.423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKPD",
+        "NAME": "PARDUBICE",
+        "USE": 22,
+        "USE_DESC": "Joint Military/Civilian",
+        "ELEVATION": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.738,
+          50.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LZTT",
+        "NAME": "TATRY",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.241,
+          49.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKRK",
+        "NAME": "ROSKILDE",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.131,
+          55.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKOD",
+        "NAME": "ODENSE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331,
+          55.476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKHV",
+        "NAME": "HADERSLEV",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522,
+          55.302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDCP",
+        "NAME": "PEENEMUNDE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.773,
+          54.158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETHS",
+        "NAME": "FASSBERG",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.184,
+          52.918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDT",
+        "NAME": "TEGEL",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.292,
+          52.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDBC",
+        "NAME": "COCHSTEDT SCHNEIDLINGEN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.419,
+          51.855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETNR",
+        "NAME": "PRESCHEN",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.633,
+          51.663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDCY",
+        "NAME": "WELZOW",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.138,
+          51.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ET",
+        "NAME": "BRANDIS",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.657,
+          51.328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAC",
+        "NAME": "ALTENBURG NOBITZ",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506,
+          50.981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSA",
+        "NAME": "ARLANDA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.933,
+          59.657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESOW",
+        "NAME": "VASTERAS",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.633,
+          59.589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESQO",
+        "NAME": "ARBOGA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.924,
+          59.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESOE",
+        "NAME": "OREBRO",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.037,
+          59.223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EEKA",
+        "NAME": "KARDLA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.83,
+          58.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSP",
+        "NAME": "KUNGSANGEN",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25,
+          58.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSL",
+        "NAME": "SAAB",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.68,
+          58.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "UMMM",
+        "NAME": "MINSK 1",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.541,
+          53.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "UMMG",
+        "NAME": "GRODNO",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.055,
+          53.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPBY",
+        "NAME": "SZWEDEROWO",
+        "USE": 22,
+        "USE_DESC": "Joint Military/Civilian",
+        "ELEVATION": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.977,
+          53.096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPPO",
+        "NAME": "LAWICA",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.826,
+          52.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPSO",
+        "NAME": "SOCHACZEW",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.292,
+          52.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPDE",
+        "NAME": "DEBLIN",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.893,
+          51.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "LKPO",
+        "NAME": "PREROV",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.404,
+          49.425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESGJ",
+        "NAME": "JONKOPING",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.068,
+          57.757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EKAH",
+        "NAME": "AARHUS",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.619,
+          56.304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESDB",
+        "NAME": "ANGELHOLM",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.847,
+          56.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMK",
+        "NAME": "KRISTIANSTAD",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.085,
+          55.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMS",
+        "NAME": "STURUP",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371,
+          55.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETNS",
+        "NAME": "SCHLESWIG",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.512,
+          54.457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAH",
+        "NAME": "HERINGSDORF",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.151,
+          53.878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDDH",
+        "NAME": "HAMBURG",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996,
+          53.631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDHI",
+        "NAME": "HAMBURG FINKENWERDER",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.835,
+          53.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ET",
+        "NAME": "RECHLIN LARZ",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.753,
+          53.306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ET",
+        "NAME": "JUTERBOG",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982,
+          51.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETSH",
+        "NAME": "HOLZDORF",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17,
+          51.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ETHT",
+        "NAME": "COTTBUS",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.293,
+          51.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDBR",
+        "NAME": "ROTHENBURG GORLITZ",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.951,
+          51.364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EDAM",
+        "NAME": "MERSEBURG",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949,
+          51.361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESKB",
+        "NAME": "BARKARBY",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89,
+          59.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSB",
+        "NAME": "BROMMA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941,
+          59.354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSU",
+        "NAME": "ESKILSTUNA",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.708,
+          59.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESCK",
+        "NAME": "BRAVALLA",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.103,
+          58.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ES",
+        "NAME": "MANTORP PARK",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.284,
+          58.365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EEKE",
+        "NAME": "KURESSAARE",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.511,
+          58.229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESSF",
+        "NAME": "HULTSFRED",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.823,
+          57.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EVRA",
+        "NAME": "RIGA",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.971,
+          56.923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "ESMQ",
+        "NAME": "KALMAR",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.287,
+          56.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EYSA",
+        "NAME": "SIAULIAI",
+        "USE": 49,
+        "USE_DESC": "Civilian/Public",
+        "ELEVATION": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.394,
+          55.893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EYPN",
+        "NAME": "PAJUOSTIS",
+        "USE": 8,
+        "USE_DESC": "Military",
+        "ELEVATION": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46,
+          55.729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "UM",
+        "NAME": "CHKALOVSK",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.397,
+          54.766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPLL",
+        "NAME": "LUBLINEK",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.398,
+          51.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ICAO": "EPCH",
+        "NAME": "RUDNIKI",
+        "USE": 999,
+        "USE_DESC": "Other",
+        "ELEVATION": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.204,
+          50.884
+        ]
+      }
+    }
+  ]
+}
