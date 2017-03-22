@@ -6,11 +6,11 @@ Wybrany zbiór danych: [Airline on time data](http://stat-computing.org/dataexpo
 
 Dane do mniejszych zadań: [Airports](http://www.vdstech.com/world-data.aspx)
 
-[Strona z niektórymi z zadań](https://mawala.github.io/projekty-nosql/)
+[Strona z rozwiązaniami zadań](https://mawala.github.io/projekty-nosql/)
 
 
 1. Zaliczenie
- - [ ] EDA
+ - [x] EDA
  - [ ] Aggregation Pipeline
 1. Egzamin
  - [ ] MapReduce
