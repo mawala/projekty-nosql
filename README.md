@@ -1,9 +1,13 @@
 # Marta Walczak
 Rozwiązania zadań z przedmiotu _Technologie NoSQL_, 2016/17
 
+
 Wybrany zbiór danych: [Airline on time data](http://stat-computing.org/dataexpo/2009/the-data.html) z 2008 roku (ponad 7 milionów rekordów)
 
 Dane do mniejszych zadań: [Airports](http://www.vdstech.com/world-data.aspx)
+
+[Strona z niektórymi z zadań](https://mawala.github.io/projekty-nosql/)
+
 
 1. Zaliczenie
  - [ ] EDA
