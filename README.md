@@ -107,6 +107,29 @@ Seconds           : 31
 Milliseconds      : 465
 ```
 
+**Mniejsza baza**
+
+Stworzyłam plik z 2000 losowych rekordów z bazy PostgreSQL i zapisałam je w pliku *2008-small.csv*
+
+```sql
+COPY(SELECT * FROM import.ontime ORDER BY random() LIMIT 2000) to 'C:\sql\2008-small.csv' with CSV HEADER;
+
+COPY 2000
+Time: 7465.640 ms
+```
+
+Za pomocą skryptu [import-small.cmd](skrypty/import-small.cmd) można utworzyć tabele z tych danych.
+
+Trwa to:
+
+```shell
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 131
+```
+
+**Agregracje**
+
  1. Zliczanie rekordów poszczególnych tabel
 
 ```sql
@@ -119,7 +142,7 @@ SELECT COUNT(*) FROM air.port; SELECT COUNT(*) FROM air.carrier; SELECT COUNT(*)
 | 1491    | 0.435        | 
 | 7009728 | 691.282      |
 
- 2. Agregacje
+ 2. Różne agregacje
  
   - Suma opóźnień przylotów w zależności od dnia tygodnia, w którym odbył się loty
   
@@ -230,4 +253,4 @@ COPY 1414
 Time: 2751.960 ms
 ```
 
-[Wykres](delay-dis.png)
+![Wykres](delay-dis.png)
