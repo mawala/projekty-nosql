@@ -218,3 +218,16 @@ Time: 5091.201 ms
 | XE      | Expressjet Airlines Inc.     | 374510         | 7982125  | 21.31            | 
 | YV      | Mesa Airlines Inc.           | 254930         | 5816450  | 22.82            | 
 | DL      | Delta Air Lines Inc.         | 451931         | 7027758  | 15.55            | 
+
+  - Szukanie zależności opóźnień lotów od odległości między lotniskami odlotu i przylotu
+  
+```sql
+Copy(SELECT SUM(ActualElapsedTime - CRSElapsedTime)*1.0/count(*) as delay, Distance, count(*)
+     FROM air.ontime WHERE ActualElapsedTime IS NOT NULL AND CRSElapsedTime IS NOT NULL GROUP BY Distance)
+     to 'C:\sql\wykres.csv' with CSV HEADER;
+     
+COPY 1414
+Time: 2751.960 ms
+```
+
+[Wykres](delay-dis.png)
