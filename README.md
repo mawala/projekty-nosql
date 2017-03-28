@@ -208,7 +208,7 @@ Time: 5091.201 ms
 | WN      | Southwest Airlines Co.       | 1201754        | 18400395 | 15.31            | 
 | EV      | Atlantic Southeast Airlines  | 280575         | 6083048  | 21.68            | 
 | MQ      | American Eagle Airlines Inc. | 490693         | 9668020  | 19.70            | 
-| HA      | Hawaiian Airlines Inc.       | 61826   104282 | 1.69     |                  | 
+| HA      | Hawaiian Airlines Inc.       | 61826          | 104282   | 1.69             | 
 | AQ      | Aloha Airlines Inc.          | 7800           | -33885   | -4.34            | 
 | FL      | AirTran Airways Corporation  | 261684         | 4739931  | 18.11            | 
 | NW      | Northwest Airlines Inc.      | 347652         | 4751060  | 13.67            | 
