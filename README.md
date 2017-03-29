@@ -83,13 +83,15 @@ Dane zapisane są w trzech plikach .csv:
 | 28   | SecurityDelay     | in minutes                                                                | 
 | 29   | LateAircraftDelay | in minutes                                                                | 
 
-  Na potrzeby zadań niektóre z powyższych pól pominęłam. W bazach rekordy były postaci:
+  Na potrzeby zadań niektóre z powyższych pól pominęłam.
   
+### PostgreSQL
+
+W bazie rekordy danych z pliku *2008.csv* mają postać:
+
 | Year | Month | DayOfMonth | DayOfWeek | DepTime | CRSDepTime | ArrTime | CRSArrTime | UniqueCarrier | FlightNum | TailNum | ActualElapsedTime | CRSElapsedTime | ArrDelay | DepDelay | Origin | Dest | Distance | Cancelled | CancellationCode | 
 |------|-------|------------|-----------|---------|------------|---------|------------|---------------|-----------|---------|-------------------|----------------|----------|----------|--------|------|----------|-----------|------------------| 
 | 2008 | 1     | 3          | 4         | 2003    | 1955       | 2211    | 2225       | WN            | 335       | N712SW  | 128               | 150            | -14      | 8        | IAD    | TPA  | 810      | 0         |                  | 
-
-### PostgreSQL
 
 **Import danych**
 
@@ -107,25 +109,34 @@ Seconds           : 31
 Milliseconds      : 465
 ```
 
+Zajęcie pamięci
+
+| Schemat |   Nazwa   |  Typ   | Właściciel | Rozmiar |
+|---------|-----------|--------|------------|---------|
+| air     | carrier   | tabela | postgres   | 128 kB  |
+| air     | ontime    | tabela | postgres   | 836 MB  |
+| air     | port      | tabela | postgres   | 344 kB  |
+
+
 **Mniejsza baza**
 
-Stworzyłam plik z 2000 losowych rekordów z bazy PostgreSQL i zapisałam je w pliku *2008-small.csv*
+Stworzyłam plik z 10000 losowych rekordów z bazy PostgreSQL i zapisałam je w pliku [2008-small.csv](skrypty/2008-small.csv) (rozmiar 989 KB).
 
 ```sql
-COPY(SELECT * FROM import.ontime ORDER BY random() LIMIT 2000) to 'C:\sql\2008-small.csv' with CSV HEADER;
+COPY(SELECT * FROM import.ontime ORDER BY random() LIMIT 10000) to 'C:\sql\2008-small.csv' with CSV HEADER;
 
-COPY 2000
-Time: 7465.640 ms
+COPY 10000
+Time: 5909.555 ms
 ```
 
 Za pomocą skryptu [import-small.cmd](skrypty/import-small.cmd) można utworzyć tabele z tych danych.
 
-Trwa to:
+Trwa to:++
 
 ```shell
 Minutes           : 0
-Seconds           : 6
-Milliseconds      : 131
+Seconds           : 5
+Milliseconds      : 337
 ```
 
 **Agregracje**
