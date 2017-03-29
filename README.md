@@ -6,11 +6,11 @@ Wybrany zbiór danych: [Airline on time data](http://stat-computing.org/dataexpo
 
 Dane do zadania geo: [Transportation/Airports](http://www.vdstech.com/world-data.aspx)
 
-1. Zaliczenie
- - [x] EDA
- - [ ] Aggregation Pipeline
-1. Egzamin
- - [ ] MapReduce
+ 1. Zaliczenie
+  - [x] EDA
+  - [ ] Aggregation Pipeline
+ 2. Egzamin
+  - [ ] MapReduce
  
 Informacje o komputerze, na którym były wykonywane obliczenia:
 
