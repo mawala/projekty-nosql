@@ -264,4 +264,10 @@ COPY 1414
 Time: 2751.960 ms
 ```
 
-![Wykres](delay-dis.png)
+```splus
+dane <- read.csv('wykres.csv', sep=',')
+plot(dane$distance, dane$delay, cex = 0.5, main="Delay ~ distance", xlab = "Distance (in miles)", ylab = "Dealy (in minutes)", las = 1)
+abline(1e-2, -2e-3, col="red")
+```
+
+![Wykres](delay-distance.png)
