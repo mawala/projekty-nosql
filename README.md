@@ -130,7 +130,7 @@ Time: 5909.555 ms
 
 Za pomocą skryptu [import-small.cmd](skrypty/import-small.cmd) można utworzyć tabele z tych danych.
 
-Trwa to:++
+Trwa to:
 
 ```shell
 Minutes           : 0
