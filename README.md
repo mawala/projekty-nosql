@@ -6,9 +6,6 @@ Wybrany zbiór danych: [Airline on time data](http://stat-computing.org/dataexpo
 
 Dane do zadania geo: [Transportation/Airports](http://www.vdstech.com/world-data.aspx)
 
-[Strona z rozwiązaniami zadań](https://mawala.github.io/projekty-nosql/)
-
-
 1. Zaliczenie
  - [x] EDA
  - [ ] Aggregation Pipeline
@@ -32,6 +29,8 @@ Informacje o komputerze, na którym były wykonywane obliczenia:
 [Rozwiązanie](https://mawala.github.io/projekty-nosql/)
 
 ## Zadanie ElasticSearch/PostgreSQL
+
+[Rozwiązanie dla małej bazy danych](https://mawala.github.io/projekty-nosql/elastic-postgres.html)
 
 ### Dane
 
